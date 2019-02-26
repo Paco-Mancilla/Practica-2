@@ -1,0 +1,84 @@
+header{
+    font-size: 100%;
+    border: 1px black solid;
+}
+#Px{
+    font-size: 30px;
+    border: 1px plum solid;
+}
+
+#Em{
+    font-size: 2.5em;
+    border:0.5em blue solid;
+}
+
+#Ex{
+ font-size: 3ex;
+ border:0.2ex blueviolet solid;
+}
+
+#Rem{
+font-size: 2rem;
+border: 1rem burlywood solid;
+}
+
+#In{
+font-size: 1in;
+border: 0.2in brown solid;
+}
+
+#Cm{
+font-size: 4cm;
+border: 0.5cm cadetblue solid;
+}
+
+#Mm{
+font-size: 30mm;
+border:2.5mm chartreuse solid;
+}
+
+#Pt{
+font-size: 10pt;
+border: 2pt chocolate solid;
+}
+
+#Pc{
+font-size: 30pc;
+border: 10pc coral solid;
+}
+
+#Prociento{
+font-size: 140%;
+border: 300% rgb(73, 133, 245) solid;
+}
+
+#Colores{
+background-color:hsla(60,50,70,0.7);
+}
+
+#Relativas{
+color: rgb(110, 48, 172);
+}
+
+#Absolutas{
+color:hsl(20, 40, 10);
+}
+
+#Porcentuales{
+background-color: rgba(10,70,30, 0.5);
+}
+
+#Color{
+    border:1px black solid;
+    background-color:hsla(60,50,70,0.7);
+}
+
+#aP{
+padding: 1px;
+border:1px black solid;
+}
+
+#aM{
+margin: 2px;
+border: 2px blue solid; 
+}
